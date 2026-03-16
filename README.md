@@ -1,4 +1,4 @@
-# Labo 05
+# Labo 07
 
 - Zorg dat Codium en alle nodige extensies zijn geïnstalleerd.
 - Volg de gegeven bestandenstructuur.
