@@ -11,7 +11,7 @@ Voor deze oefeningen zijn de startbestanden (index.html, css/style.css) niet mee
 ```
 webtechnologie/
 ├─ labo-01/
-│  ├─ oefening-1/
+│  ├─ oefening-01/
 │  │  ├─ index.html
 │  │  ├─ images/
 │  │  │  ├─ image-1.jpg 
