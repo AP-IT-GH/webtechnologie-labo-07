@@ -7,3 +7,11 @@
 * Zorg ervoor dat het nieuwe grid rechts uitgelijnd is.
 * Geef de 3 grid-children een gap van 3rem.
 
+
+## Verwacht resultaat
+
+![page-nested](./opgave.png)
+
+De grid-lijnen zoals je ze in de DevTools van je browser te zien krijgt:
+
+![grid-instellingen](./grid-settings.png)

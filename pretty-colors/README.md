@@ -20,3 +20,7 @@
   * Geef alle oneven articles een gele achtergrondkleur.
   * Je kan de exacte kleurcodes uit de opgave afleiden door middel van een color picker tool.
 * Zet een nummer in elk article. Zorg ervoor dat het nummer goed leesbaar is (gebruik een witte tekst op de rode, groene en blauwe achtergrondkleur en een zwarte tekst op de gele achtergrondkleur).
+
+## Verwacht resultaat
+
+![pretty-colors](./opgave.png)

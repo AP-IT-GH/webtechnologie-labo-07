@@ -24,3 +24,11 @@ Maak de voorgaande oefening nu ook een keer met named areas:
     > **TIP**: Opgelet: de value moet NIET tussen quotes ("") staan.
 
   * geef de grid-parent de `grid-template-areas` property.
+
+## Verwacht resultaat
+
+![page-layout](./opgave.webp)
+
+De grid-lijnen zoals je ze in de DevTools van je browser te zien krijgt:
+
+![grid-instellingen](./grid-settings.png)
