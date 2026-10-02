@@ -1,3 +1,5 @@
+# page-layout
+
 Bouw het gegeven ontwerp na met behulp van een CSS Grid.
 
 * Zorg dat de body-tag altijd minstens `100vh` hoog is. (`min-height: 100vh`)
@@ -18,7 +20,7 @@ Bouw het gegeven ontwerp na met behulp van een CSS Grid.
 
 ### Extra:
 
-Maak de voorgaande oefening nu ook een keer met named areas:
+Maak deze oefening nu ook een keer met named areas:
   * geef elk grid-child een naam (met de property `grid-area`) zodat je ze kunt gebruiken in een grid.
 
     > **TIP**: Opgelet: de value moet NIET tussen quotes ("") staan.

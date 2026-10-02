@@ -28,8 +28,8 @@ webtechnologie/
 ## Oefeningen
 
 1. [drieluik](drieluik/)
-2. [page-layout](grid-layout-nested/)
-3. [page-layout-nested](page-layout-nested/)
-4. [pretty-colors](pretty-colors/)
+2. [page-layout](page-layout/)
+3. [pretty-colors](pretty-colors/)
+4. [page-nested](page-nested/)
 5. [hamburger](hamburger/)
 6. [CSS Grid Garden](https://cssgridgarden.com/)
