@@ -17,7 +17,7 @@ webtechnologie/
 │  │  │  ├─ image-1.jpg 
 │  │  │  └─ image-n.jpg 
 │  │  └─ css/
-│  │     ├─ reset.css
+│  │     ├─ normalize.css
 │  │     └─ style.css
 │  ├─ oefening-02/
 │  └─ oefening-n/
